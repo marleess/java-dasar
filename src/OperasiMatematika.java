@@ -1,8 +1,8 @@
 public class OperasiMatematika {
   public static void main(String[] args) {
 
-    int a = 100;
-    int b = 10;
+    int a = 10;
+    int b = 3;
 
     System.out.println(a + b);
     System.out.println(a - b);

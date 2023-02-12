@@ -12,8 +12,7 @@ public class MethodReturnValue {
   }
 
   static int sum(int value1, int value2){
-    var total = value1 + value2;
-    return total;
+    return value1 + value2;
   }
 
   static int hitung(int value1, String operasi, int value2){
